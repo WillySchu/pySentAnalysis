@@ -3,3 +3,4 @@ gunicorn==19.4.5
 nltk==3.2.1
 PyYAML==3.11
 virtualenv==15.0.1
+numpy==1.11.0
